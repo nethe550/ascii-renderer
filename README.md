@@ -34,7 +34,7 @@ A renderer to convert normal images into ASCII art.
 </p>
 
 ## Usage
-Either open the `index.html` file in your browser, visit `https://nethe550.github.io/ascii-renderer`, or import `ASCIIRenderer.js` into a webpage of your own.
+Either open the `index.html` file in your browser, visit [`https://nethe550.github.io/ascii-renderer/`](https://nethe550.github.io/ascii-renderer/), or import `ASCIIRenderer.js` into a webpage of your own.
 
 ## Character Palettes
 Character palettes are structured like an array of strings.
