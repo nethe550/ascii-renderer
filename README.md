@@ -1,10 +1,37 @@
 # ASCII Renderer
 A renderer to convert normal images into ASCII art.
 
-The demo is available for use in the `index.html` file. It provides basic controls for uploading and converting images to ASCII art.
-The `ASCIIRenderer.js` has more features than are displayed in the basic controls of the demo though, so I'd recommend taking a look!
+<table>
+  <tr>
+    <td>
+      <img src="./example.png" width="400" height="500" />
+    </td>
+    <td>
+      <p>
+        The demo is available for use in the <code>index.html</code> file. 
+        <br/>
+        <br/>
+        It provides basic controls for uploading and converting images to ASCII art.
+        <br/>
+        <br/>
+        The <code>ASCIIRenderer.js</code> has more features than are displayed in the
+        <br/>
+        basic controls of the demo though, so I'd recommend taking a look!
+        <br/>
+        <br/>
+        This project isn't 100% polished; it is more of a proof-of-concept 
+        <br/>
+        rather than a deployable tool. 
+        Though, functionality-wise it is essentially complete.
+      </p>
+    </td>
+  </tr>
+</table>
 
-This project isn't 100% polished; it is more of a proof-of-concept rather than a deployable tool. Though, functionality-wise it is essentially complete.
+<p float="left">
+  
+  
+</p>
 
 ## Usage
 Either open the `index.html` file in your browser, visit `https://nethe550.github.io/ascii-renderer`, or import `ASCIIRenderer.js` into a webpage of your own.
